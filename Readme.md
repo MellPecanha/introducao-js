@@ -1,3 +1,3 @@
-# Introdução ao JavaScript
+# Introdução ao JavaScript ✨
 
-Projetos desenvolvidos durante bootcamp da DIO.
+Projetos desenvolvidos durante bootcamp da DIO. 
