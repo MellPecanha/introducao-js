@@ -1,0 +1,2 @@
+# Tratamento de erros
+Projeto com objetivo de que a função receba um array e retorne ele se o seu tamanho for o mesmo que o número enviado como parâmetro da função. Caso não aconteça é retornado diferentes tipos de erro de acordo com o ocorrido.
